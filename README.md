@@ -1,6 +1,6 @@
-## 🌐 Advanced Domain Scanner 🔍
+##* 🌐 Advanced Domain Scanner 🔍
 
-![Banner](https://i.imgur.com/JQZ1l0a.png)
+![Banner](https://raw.githubusercontent.com/Nipho999/scanner/refs/heads/main/IMG_20250616_212530.jpg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version">
@@ -21,8 +21,8 @@ A high-performance domain scanning tool with proxy support, reverse proxy detect
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/domain-scanner.git
-cd domain-scanner
+git clone https://github.com/Nipho999/scanner.git
+cd scanner
 
 # Install dependencies
 npm install chalk@4 readline

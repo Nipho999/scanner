@@ -1,4 +1,4 @@
-##* 🌐 Advanced Domain Scanner 🔍
+## Advanced Domain Scanner 🔍
 
 ![Banner](https://raw.githubusercontent.com/Nipho999/scanner/refs/heads/main/IMG_20250616_212530.jpg)
 

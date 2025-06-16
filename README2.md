@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Node.js-≥18.0-yellow" alt="Node.js">
 </p>
 
-A high-performance HTTP/S domain scanning tool with SSL & WEBSOCKET support <b>☁️</b>🗝️
+A high-performance HTTP/S domain scanning         tool with SSL & WEBSOCKET support.
 
 ## ✨¨ Features
 - **Multi-mode scanning**

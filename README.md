@@ -31,4 +31,10 @@ npm install chalk@4 readline
 node tbk-scan.js ( it will use direct mode )
 node tbk-scan.js --ssl your.ssh.server 443 ( it will use ssl mode )
 node tbk-scan.js --ws your.ssh.server 443 ( it will use websocket mode )
-</small>
+
+
+
+
+
+
+

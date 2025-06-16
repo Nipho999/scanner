@@ -18,7 +18,7 @@ A high-performance domain scanning tool with proxy support, reverse proxy detect
 - **export Results**
 
 ## 🛠 Installation
-
+<small>
 ```bash
 # Clone repository
 git clone https://github.com/Nipho999/scanner.git
@@ -31,3 +31,4 @@ npm install chalk@4 readline
 node tbk-scan.js ( it will use direct mode )
 node tbk-scan.js --ssl your.ssh.server 443 ( it will use ssl mode )
 node tbk-scan.js --ws your.ssh.server 443 ( it will use websocket mode )
+</small>

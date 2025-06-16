@@ -1,4 +1,4 @@
-# 🌐 Advanced Domain Scanner 🔍
+## 🌐 Advanced Domain Scanner 🔍
 
 ![Banner](https://i.imgur.com/JQZ1l0a.png)
 
@@ -11,12 +11,11 @@
 A high-performance domain scanning tool with proxy support, reverse proxy detection, and intelligent filtering.
 
 ## ✨ Features
-- **Multi-mode scanning** (Direct/Proxy/Reverse Proxy)
-- **Smart domain filtering** (skip common protected domains)
-- **Progress visualization** with colored output
-- **Error suppression** for clean results
-- **UID authentication** system
-- **Results export** to text file
+- **Multi-mode scanning**
+- **Progress visualization**
+- **Error suppression**
+- **UID authentication** 
+- **export Results**
 
 ## 🛠 Installation
 
@@ -27,3 +26,8 @@ cd domain-scanner
 
 # Install dependencies
 npm install chalk@4 readline
+
+# Run the code
+node tbk-scan.js ( it will use direct mode )
+node tbk-scan.js --ssl your.ssh.server 443 ( it will use ssl mode )
+node tbk-scan.js --ws your.ssh.server 443 ( it will use websocket mode )

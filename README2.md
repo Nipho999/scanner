@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Node.js-≥18.0-yellow" alt="Node.js">
 </p>
 
-A high-performance domain scanning tool with proxy support, reverse proxy detection, and intelligent filtering.
+A high-performance HTTP/S domain scanning tool with SSL & WEBSOCKET support <b>☁️</b>🗝️
 
 ## ✨¨ Features
 - **Multi-mode scanning**

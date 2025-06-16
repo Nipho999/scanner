@@ -10,7 +10,7 @@
 
 A high-performance domain scanning tool with proxy support, reverse proxy detection, and intelligent filtering.
 
-## âœ¨ Features
+## ✨¨ Features
 - **Multi-mode scanning**
 - **Progress visualization**
 - **Error suppression**
@@ -18,38 +18,38 @@ A high-performance domain scanning tool with proxy support, reverse proxy detect
 - **Export results**
 - **Proxy support**
 
-## ðŸ›  Installation
+##  🛠› Installation
 
-### ðŸ”» Clone repository
+### 🔹› Clone repository
 ```bash
 git clone https://github.com/cristina/scanner.git
 ```
 
-### ðŸ“ Go to directory
+### 🔹› Go to directory
 ```bash
 cd scanner
 ```
 
-### ðŸ“¦ Install dependencies
+###  🛠› Install dependencies
 ```bash
 npm install chalk@4 readline
 ```
 
-### ðŸš€ Direct scan
+### › Direct scan
 ```bash
 node tbk-scan.js
 ```
 
-### ðŸ” SSL scan
+### › SSL scan
 ```bash
 node tbk-scan.js --ssl your.ssh.server 443
 ```
 
-### ðŸŒ WebSocket scan
+### › WebSocket scan
 ```bash
 node tbk-scan.js --ws your.ssh.server 443
 ```
 
-## ðŸ“„ License
+## › License
 
 Licensed under the MIT License.

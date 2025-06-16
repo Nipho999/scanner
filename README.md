@@ -18,19 +18,21 @@ A high-performance domain scanning tool with proxy support, reverse proxy detect
 - **export Results**
 
 ## 🛠 Installation
-<small>
-```bash
+
+
 # Clone repository
-git clone https://github.com/Nipho999/scanner.git
-cd scanner
+```git clone https://github.com/Nipho999/scanner.git```
+
+# Go to directory
+```cd scanner```
 
 # Install dependencies
-npm install chalk@4 readline
+```npm install chalk@4 readline```
 
 # Run the code
-node tbk-scan.js ( it will use direct mode )
-node tbk-scan.js --ssl your.ssh.server 443 ( it will use ssl mode )
-node tbk-scan.js --ws your.ssh.server 443 ( it will use websocket mode )
+```node tbk-scan.js ```( it will use direct mode )
+```node tbk-scan.js --ssl your.ssh.server 443``` ( it will use ssl mode )
+```node tbk-scan.js --ws your.ssh.server 443``` ( it will use websocket mode )
 
 
 

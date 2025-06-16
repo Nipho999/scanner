@@ -21,7 +21,8 @@ A high-performance domain scanning tool with proxy support, reverse proxy detect
 
 
 # Clone repository
-```git clone https://github.com/Nipho999/scanner.git```
+```bash
+git clone https://github.com/Nipho999/scanner.git```
 
 # Go to directory
 ```cd scanner```

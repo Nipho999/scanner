@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
-  <img src="https://img.shields.io/badge/Node.js-â‰¥18.0-yellow" alt="Node.js">
+  <img src="https://img.shields.io/badge/Node.js-≥18.0-yellow" alt="Node.js">
 </p>
 
 A high-performance domain scanning tool with proxy support, reverse proxy detection, and intelligent filtering.
@@ -22,7 +22,7 @@ A high-performance domain scanning tool with proxy support, reverse proxy detect
 
 ### 🔹› Clone repository
 ```bash
-git clone https://github.com/cristina/scanner.git
+git clone https://github.com/Nipho999/scanner.git
 ```
 
 ### 🔹› Go to directory

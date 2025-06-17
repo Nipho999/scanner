@@ -1,6 +1,6 @@
 ## Advanced Domain Scanner 🔍
 
-![Banner](https://raw.githubusercontent.com/Nipho999/scanner/refs/heads/main/IMG_20250616_212530.jpg)
+![Banner](https://raw.githubusercontent.com/Nipho999/scanner/refs/heads/main/IMG-20250617-WA0003.jpg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version">

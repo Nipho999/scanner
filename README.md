@@ -3,7 +3,7 @@
 ![Banner](https://raw.githubusercontent.com/Nipho999/scanner/refs/heads/main/IMG-20250617-WA0003.jpg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.1-blue" alt="Version">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
   <img src="https://img.shields.io/badge/Node.js-≥18.0-yellow" alt="Node.js">
 </p>
@@ -24,16 +24,15 @@ A high-performance HTTP/S domain scanning         tool with SSL & WEBSOCKET supp
 ```bash
 git clone https://github.com/Nipho999/scanner.git
 ```
-
+```bash
+npm install chalk@4 readline
+```
 ### 🔹› Go to directory
 ```bash
 cd scanner
 ```
 
 ###  🛠› Install dependencies
-```bash
-npm install chalk@4 readline
-```
 
 ### › Direct scan
 ```bash

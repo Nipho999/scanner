@@ -24,6 +24,8 @@ A high-performance HTTP/S domain scanning         tool with SSL & WEBSOCKET supp
 ```bash
 git clone https://github.com/Nipho999/scanner.git
 ```
+###  🛠› Install dependencies
+
 ```bash
 npm install chalk@4 readline
 ```
@@ -31,8 +33,6 @@ npm install chalk@4 readline
 ```bash
 cd scanner
 ```
-
-###  🛠› Install dependencies
 
 ### › Direct scan
 ```bash
